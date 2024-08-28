@@ -39,7 +39,7 @@
 ## Experiência de trabalho
 
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbg_LaVMnxjKMHQn9Rg5jdWDTL_27NVpsdvw&s" style="border-radius:10px"/>](https://portal.tcu.gov.br/inicio)
+[<img align="left" height="94px" width="94px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbg_LaVMnxjKMHQn9Rg5jdWDTL_27NVpsdvw&s" style="border-radius:10px"/>](https://portal.tcu.gov.br/inicio)
 
 **Software Developer** \
 [**Tribunal de Contas da União**](https://portal.tcu.gov.br/inicio) • Estagiário \
