@@ -42,9 +42,9 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbg_LaVMnxjKMHQn9Rg5jdWDTL_27NVpsdvw&s"/>](https://portal.tcu.gov.br/inicio)
 
-**Developer** \
+**Software Developer** \
 [**Tribunal de Contas da União**](https://portal.tcu.gov.br/inicio) • Estagiário \
-Linguagens & Tecnologias: `Python`, `SQLite`, `SQLServer`, `Power BI`,\
+Linguagens & Tecnologias: `Python`, `SQLite`, `SQLServer`, `Power BI`\
 <br/>
 
 <br/>
