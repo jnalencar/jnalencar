@@ -16,3 +16,13 @@
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
+### Experiência de trabalho
+
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbg_LaVMnxjKMHQn9Rg5jdWDTL_27NVpsdvw&s"/>](https://portal.tcu.gov.br/inicio)
+
+**Developer** \
+[**Tribunal de Contas da União**](https://portal.tcu.gov.br/inicio) • Estagiário \
+Linguagens & Tecnologias: `Python`, `SQLite`, `SQLServer`, `Power BI`,\
+<br/>
