@@ -38,9 +38,9 @@
 
 ## Experiência de trabalho
 
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbg_LaVMnxjKMHQn9Rg5jdWDTL_27NVpsdvw&s"/>](https://portal.tcu.gov.br/inicio)
+<br/>
 
 **Software Developer** \
 [**Tribunal de Contas da União**](https://portal.tcu.gov.br/inicio) • Estagiário \
